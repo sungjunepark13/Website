@@ -1,0 +1,224 @@
+<div style="position: relative; background: #444444">
+  <div style="width: 556px; height: 164px; left: 64px; top: 64px; position: absolute">
+    <div style="width: 556px; height: 134px; left: 0px; top: 30px; position: absolute; background: rgba(30, 30, 30, 0.70); border-radius: 5px; border: 0.50px white solid">
+      <div data-:hover="true" data-variant="1" style="left: 293px; top: 30px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img style="flex: 1 1 0; height: 74px; max-width: 233px; max-height: 74px; position: relative" src="https://placehold.co/233x74" />
+      </div>
+      <div data-:hover="false" data-variant="1" style="left: 30px; top: 30px; position: absolute; flex-direction: column; justify-content: center; align-items: flex-start; display: inline-flex">
+        <img style="width: 233px; height: 74px; max-width: 233px; max-height: 74px; position: relative" src="https://placehold.co/233x74" />
+      </div>
+    </div>
+    <div style="width: 556px; height: 30px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+      <div style="left: 96.50px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">default</div>
+      <div style="left: 363.50px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">hover</div>
+    </div>
+  </div>
+  <div style="width: 450px; height: 258px; left: 64px; top: 292px; position: absolute">
+    <div style="width: 330px; height: 228px; left: 120px; top: 30px; position: absolute; background: rgba(30, 30, 30, 0.70); border-radius: 5px; border: 0.50px white solid">
+      <div data-:hover="true" data-variant="2" style="width: 77.06px; padding-left: 17px; padding-right: 17px; padding-top: 6px; padding-bottom: 6px; left: 180px; top: 96px; position: absolute; border-radius: 2px; flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+        <div style="text-align: right; justify-content: center; display: flex; flex-direction: column; color: var(--color-white-solid, white); font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Home</div>
+      </div>
+      <div data-:hover="false" data-variant="1" style="padding-left: 17px; padding-right: 17px; padding-top: 6px; padding-bottom: 6px; left: 30px; top: 30px; position: absolute; border-radius: 2px; flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+        <div style="text-align: right; justify-content: center; display: flex; flex-direction: column; color: var(--color-violet-63, #9B8EB1); font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Home</div>
+      </div>
+      <div data-:hover="false" data-variant="2" style="width: 96px; padding-left: 17px; padding-right: 17px; padding-top: 6px; padding-bottom: 6px; left: 30px; top: 96px; position: absolute; border-radius: 2px; flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+        <div style="align-self: stretch; text-align: right; justify-content: center; display: flex; flex-direction: column; color: var(--color-violet-63, #9B8EB1); font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Home</div>
+      </div>
+      <div data-:hover="true" data-variant="3" style="width: 86.98px; padding-left: 17px; padding-right: 17px; padding-top: 6px; padding-bottom: 6px; left: 180px; top: 162px; position: absolute; background: var(--color-spring-green-50, #00FFB3); border-radius: 2px; outline: 2px var(--color-spring-green-50, #00FFB3) solid; outline-offset: -2px; flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+        <div style="text-align: right; justify-content: center; display: flex; flex-direction: column; color: var(--color-blue-7, #0F1014); font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Home</div>
+      </div>
+      <div data-:hover="false" data-variant="3" style="padding-left: 17px; padding-right: 17px; padding-top: 6px; padding-bottom: 6px; left: 34.50px; top: 162px; position: absolute; border-radius: 2px; outline: 2px var(--color-spring-green-50, #00FFB3) solid; outline-offset: -2px; flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+        <div style="text-align: right; justify-content: center; display: flex; flex-direction: column; color: var(--color-violet-63, #9B8EB1); font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Home</div>
+      </div>
+    </div>
+    <div style="width: 330px; height: 30px; left: 120px; top: 0px; position: absolute; overflow: hidden">
+      <div style="left: 40px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">default</div>
+      <div style="left: 194px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">hover</div>
+    </div>
+    <div style="width: 120px; height: 228px; left: 0px; top: 30px; position: absolute; overflow: hidden">
+      <div style="left: 0px; top: 33px; position: absolute"><span style="color: rgba(255, 255, 255, 0.50); font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">variant<br/></span><span style="color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">1</span></div>
+      <div style="left: 0px; top: 99px; position: absolute"><span style="color: rgba(255, 255, 255, 0.50); font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">variant<br/></span><span style="color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">2</span></div>
+      <div style="left: 0px; top: 165px; position: absolute"><span style="color: rgba(255, 255, 255, 0.50); font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">variant<br/></span><span style="color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">3</span></div>
+    </div>
+  </div>
+  <div style="width: 382px; height: 126px; left: 64px; top: 614px; position: absolute">
+    <div style="width: 382px; height: 96px; left: 0px; top: 30px; position: absolute; background: rgba(30, 30, 30, 0.70); border-radius: 5px; border: 0.50px white solid">
+      <div data-:hover="true" data-variant="1" style="width: 145.11px; padding-left: 17px; padding-right: 17px; padding-top: 6px; padding-bottom: 6px; left: 206px; top: 30px; position: absolute; border-radius: 2px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="justify-content: center; display: flex; flex-direction: column; color: var(--color-white-solid, white); font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Trading Journal</div>
+      </div>
+      <div data-:hover="false" data-variant="1" style="padding-left: 17px; padding-right: 17px; padding-top: 6px; padding-bottom: 6px; left: 30px; top: 30px; position: absolute; border-radius: 2px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="justify-content: center; display: flex; flex-direction: column; color: var(--color-violet-63, #9B8EB1); font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Trading Journal</div>
+      </div>
+    </div>
+    <div style="width: 382px; height: 30px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+      <div style="left: 53px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">default</div>
+      <div style="left: 233px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">hover</div>
+    </div>
+  </div>
+  <div style="width: 606px; height: 446px; left: 64px; top: 804px; position: absolute">
+    <div style="width: 486px; height: 416px; left: 120px; top: 30px; position: absolute; background: rgba(30, 30, 30, 0.70); border-radius: 5px; border: 0.50px white solid">
+      <div data-:hover="true" data-variant="1" style="padding-left: 18px; padding-right: 18px; padding-top: 11px; padding-bottom: 11px; left: 258px; top: 30px; position: absolute; justify-content: center; align-items: flex-start; display: inline-flex">
+        <div data-:hover="false" data-variant="2" style="flex: 1 1 0; padding-left: 17px; padding-right: 17px; padding-top: 6px; padding-bottom: 6px; border-radius: 2px; flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+          <div style="align-self: stretch; text-align: right; justify-content: center; display: flex; flex-direction: column; color: var(--color-violet-63, #9B8EB1); font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Tutorials</div>
+        </div>
+        <div style="width: 180px; left: 18px; top: 47px; position: absolute; background: var(--color-azure-12, #181C27); flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+          <div style="padding-top: 11px; padding-bottom: 11px; justify-content: center; align-items: flex-start; display: inline-flex">
+            <div data-:hover="false" data-variant="1" style="padding-left: 17px; padding-right: 17px; padding-top: 6px; padding-bottom: 6px; border-radius: 2px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: var(--color-violet-63, #9B8EB1); font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Trading Journal</div>
+            </div>
+          </div>
+          <div style="padding-top: 11px; padding-bottom: 11px; justify-content: center; align-items: flex-start; display: inline-flex">
+            <div data-:hover="false" data-variant="1" style="padding-left: 17px; padding-right: 17px; padding-top: 6px; padding-bottom: 6px; border-radius: 2px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+              <div style="justify-content: center; display: flex; flex-direction: column; color: var(--color-violet-63, #9B8EB1); font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Market Replay</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div data-:hover="false" data-variant="1" style="padding-left: 18px; padding-right: 18px; padding-top: 11px; padding-bottom: 11px; left: 30px; top: 30px; position: absolute; justify-content: center; align-items: flex-start; display: inline-flex">
+        <div data-:hover="false" data-variant="1" style="padding-left: 17px; padding-right: 17px; padding-top: 6px; padding-bottom: 6px; border-radius: 2px; flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+          <div style="text-align: right; justify-content: center; display: flex; flex-direction: column; color: var(--color-violet-63, #9B8EB1); font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Tutorials</div>
+        </div>
+      </div>
+      <div data-:hover="false" data-variant="2" style="padding-left: 18px; padding-right: 18px; padding-top: 11px; padding-bottom: 11px; left: 30px; top: 223px; position: absolute; justify-content: center; align-items: flex-start; display: inline-flex">
+        <div data-:hover="false" data-variant="3" style="padding-left: 17px; padding-right: 17px; padding-top: 6px; padding-bottom: 6px; border-radius: 2px; outline: 2px #00FFB3 solid; outline-offset: -2px; flex-direction: column; justify-content: flex-start; align-items: flex-end; display: inline-flex">
+          <div style="text-align: right; justify-content: center; display: flex; flex-direction: column; color: var(--color-violet-63, #9B8EB1); font-size: 16px; font-family: Roboto; font-weight: 400; line-height: 24px; word-wrap: break-word">Sign up</div>
+        </div>
+      </div>
+    </div>
+    <div style="width: 486px; height: 30px; left: 120px; top: 0px; position: absolute; overflow: hidden">
+      <div style="left: 79px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">default</div>
+      <div style="left: 311px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">hover</div>
+    </div>
+    <div style="width: 120px; height: 416px; left: 0px; top: 30px; position: absolute; overflow: hidden">
+      <div style="left: 0px; top: 96.50px; position: absolute"><span style="color: rgba(255, 255, 255, 0.50); font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">variant<br/></span><span style="color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">1</span></div>
+      <div style="left: 0px; top: 289.50px; position: absolute"><span style="color: rgba(255, 255, 255, 0.50); font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">variant<br/></span><span style="color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">2</span></div>
+    </div>
+  </div>
+  <div style="width: 808px; height: 204px; left: 64px; top: 1314px; position: absolute">
+    <div style="width: 688px; height: 174px; left: 120px; top: 30px; position: absolute; background: rgba(30, 30, 30, 0.70); border-radius: 5px; border: 0.50px white solid">
+      <div data-:hover="true" data-variant="1" style="padding-left: 28px; padding-right: 28px; padding-top: 10px; padding-bottom: 10px; left: 359px; top: 30px; position: absolute; background: var(--color-spring-green-65, #4BFFC9); border-radius: 2px; justify-content: center; align-items: center; display: inline-flex">
+        <div style="text-align: center; justify-content: center; display: flex; flex-direction: column; color: var(--color-violet-20, #2F1452); font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">TRY IT FREE FOR 7 DAYS</div>
+      </div>
+      <div data-:hover="false" data-variant="1" style="padding-left: 28px; padding-right: 28px; padding-top: 10px; padding-bottom: 10px; left: 30px; top: 30px; position: absolute; background: var(--color-spring-green-50, #00FFB3); border-radius: 2px; justify-content: center; align-items: center; display: inline-flex">
+        <div style="text-align: center; justify-content: center; display: flex; flex-direction: column; color: var(--color-violet-20, #2F1452); font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">TRY IT FREE FOR 7 DAYS</div>
+      </div>
+      <div data-:hover="true" data-variant="2" style="padding: 10px; left: 372px; top: 102px; position: absolute; background: var(--color-spring-green-65, #4BFFC9); border-radius: 2px; justify-content: center; align-items: center; display: inline-flex">
+        <div style="text-align: center; justify-content: center; display: flex; flex-direction: column; color: var(--color-azure-10, #121721); font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">TRY IT FREE FOR 7 DAYS</div>
+      </div>
+      <div data-:hover="false" data-variant="2" style="padding: 10px; left: 43px; top: 102px; position: absolute; background: var(--color-spring-green-50, #00FFB3); border-radius: 2px; justify-content: center; align-items: center; display: inline-flex">
+        <div style="text-align: center; justify-content: center; display: flex; flex-direction: column; color: var(--color-azure-10, #121721); font-size: 22px; font-family: Roboto; font-weight: 400; line-height: 22px; word-wrap: break-word">TRY IT FREE FOR 7 DAYS</div>
+      </div>
+    </div>
+    <div style="width: 688px; height: 30px; left: 120px; top: 0px; position: absolute; overflow: hidden">
+      <div style="left: 129.50px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">default</div>
+      <div style="left: 462.50px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">hover</div>
+    </div>
+    <div style="width: 120px; height: 174px; left: 0px; top: 30px; position: absolute; overflow: hidden">
+      <div style="left: 0px; top: 36px; position: absolute"><span style="color: rgba(255, 255, 255, 0.50); font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">variant<br/></span><span style="color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">1</span></div>
+      <div style="left: 0px; top: 108px; position: absolute"><span style="color: rgba(255, 255, 255, 0.50); font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">variant<br/></span><span style="color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">2</span></div>
+    </div>
+  </div>
+  <div style="width: 388.84px; height: 213.76px; left: 64px; top: 1582px; position: absolute">
+    <div style="width: 268.84px; height: 213.76px; left: 120px; top: 0px; position: absolute; background: rgba(30, 30, 30, 0.70); border-radius: 5px; border: 0.50px white solid">
+      <div data-variant="1" style="width: 208.82px; height: 61.88px; left: 30px; top: 30px; position: absolute; overflow: hidden">
+        <div style="width: 208.82px; height: 61.88px; left: 0px; top: 0px; position: absolute; background: var(--color-grey-65, #A6A6A6)"></div>
+        <div style="width: 206.08px; height: 59.11px; left: 1.40px; top: 1.37px; position: absolute; background: var(--color-black-solid, black)"></div>
+        <div style="width: 32.11px; height: 39.46px; left: 19.76px; top: 9.62px; position: absolute; background: var(--color-white-solid, white)"></div>
+        <div style="width: 111.33px; height: 61.88px; left: 97.49px; top: 0px; position: absolute; background: linear-gradient(180deg, var(--color-grey-10-10_2%, rgba(26, 26, 26, 0.10)) 0%, var(--color-grey-13-15_3%, rgba(33, 33, 33, 0.15)) 12%, var(--color-grey-21-22_7%, rgba(53, 53, 53, 0.23)) 31%, var(--color-grey-34-31_8%, rgba(87, 87, 87, 0.32)) 53%, var(--color-grey-52-42%, rgba(133, 133, 133, 0.42)) 78%, var(--color-grey-70-51%, rgba(179, 179, 179, 0.51)) 100%)"></div>
+        <div style="width: 123.40px; height: 44.64px; left: 65.67px; top: 10.12px; position: absolute; background: var(--color-white-solid, white)"></div>
+      </div>
+      <div data-variant="2" style="width: 208.84px; height: 61.88px; left: 30px; top: 121.88px; position: absolute; overflow: hidden">
+        <div style="width: 208.85px; height: 61.88px; left: 0px; top: 0px; position: absolute; background: var(--color-black-solid, black)"></div>
+        <div style="width: 208.84px; height: 61.89px; left: 0px; top: 0px; position: absolute; background: var(--color-grey-65, #A6A6A6)"></div>
+        <div style="width: 61.99px; height: 9.91px; left: 63.20px; top: 10.61px; position: absolute; background: var(--color-white-solid, white); outline: 0.20px var(--color-white-solid, white) solid; outline-offset: -0.10px"></div>
+        <div style="width: 135.14px; height: 26.99px; left: 58.85px; top: 25.30px; position: absolute; background: var(--color-white-solid, white)"></div>
+        <div style="width: 20.78px; height: 39.94px; left: 15.96px; top: 10.97px; position: absolute; background: linear-gradient(297deg, var(--color-azure-50, #00BEFF) 0%, var(--color-azure-50, #00BEFF) 1%, var(--color-azure-50, #00BEFF) 26%, var(--color-cyan-50, #00E3FF) 51%, var(--color-cyan-50, #00E3FF) 76%, var(--color-cyan-50, #00E3FF) 100%)"></div>
+        <div style="width: 16.21px; height: 13.58px; left: 36.58px; top: 24.23px; position: absolute; background: linear-gradient(270deg, var(--color-yellow-50, #FFE000) 0%, var(--color-orange-50, #FF9C00) 41%, var(--color-orange-50, #FF9C00) 77%, var(--color-orange-50, #FF9C00) 100%)"></div>
+        <div style="width: 26.68px; height: 20.59px; left: 16.61px; top: 30.94px; position: absolute; background: linear-gradient(322deg, var(--color-red-61, #FF3A44) 0%, var(--color-rose-42, #C31162) 100%)"></div>
+        <div style="width: 26.68px; height: 20.49px; left: 16.61px; top: 10.45px; position: absolute; background: linear-gradient(38deg, var(--color-spring-green-41, #32A071) 0%, var(--color-spring-green-42, #2DA771) 7%, var(--color-spring-green-45, #15CF74) 48%, var(--color-spring-green-46, #06E775) 80%, var(--color-spring-green-47, #00F076) 100%)"></div>
+        <div style="width: 26.52px; height: 13.96px; left: 16.61px; top: 37.49px; position: absolute; opacity: 0.20; background: var(--color-black-solid, black)"></div>
+        <div style="width: 36.76px; height: 19.81px; left: 15.96px; top: 30.94px; position: absolute; opacity: 0.12; background: var(--color-black-solid, black)"></div>
+        <div style="width: 36.74px; height: 20.53px; left: 15.97px; top: 10.41px; position: absolute; opacity: 0.25; background: var(--color-white-solid, white)"></div>
+      </div>
+    </div>
+    <div style="width: 120px; height: 213.76px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+      <div style="left: 0px; top: 45.94px; position: absolute"><span style="color: rgba(255, 255, 255, 0.50); font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">variant<br/></span><span style="color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">1</span></div>
+      <div style="left: 0px; top: 137.82px; position: absolute"><span style="color: rgba(255, 255, 255, 0.50); font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">variant<br/></span><span style="color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">2</span></div>
+    </div>
+  </div>
+  <div style="width: 420px; height: 140px; left: 64px; top: 1859.76px; position: absolute">
+    <div style="width: 420px; height: 110px; left: 0px; top: 30px; position: absolute; background: rgba(30, 30, 30, 0.70); border-radius: 5px; border: 0.50px white solid">
+      <div data-:hover="true" data-variant="1" style="padding-top: 14px; padding-bottom: 15px; padding-left: 49px; padding-right: 20px; left: 225px; top: 30px; position: absolute; background: var(--color-grey-44, #707070); border-radius: 2px; outline: 1px var(--color-grey-44, #707070) solid; outline-offset: -1px; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 12.34px; height: 16px; left: 21px; top: 16.50px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: var(--color-white-solid, white); font-size: 16px; font-family: Font Awesome 5 Free; font-weight: 900; line-height: 14px; word-wrap: break-word"></div>
+        <div style="justify-content: center; display: flex; flex-direction: column; color: var(--color-white-solid, white); font-size: 14px; font-family: Poppins; font-weight: 400; word-wrap: break-word">WATCH DEMO</div>
+      </div>
+      <div data-:hover="false" data-variant="1" style="padding-top: 14px; padding-bottom: 15px; padding-left: 49px; padding-right: 20px; left: 30px; top: 30px; position: absolute; border-radius: 2px; outline: 1px var(--color-grey-44, #707070) solid; outline-offset: -1px; justify-content: center; align-items: center; display: inline-flex">
+        <div style="width: 12.34px; height: 16px; left: 21px; top: 16.50px; position: absolute; justify-content: center; display: flex; flex-direction: column; color: var(--color-grey-62, #9F9F9F); font-size: 16px; font-family: Font Awesome 5 Free; font-weight: 900; line-height: 14px; word-wrap: break-word"></div>
+        <div style="justify-content: center; display: flex; flex-direction: column; color: var(--color-grey-62, #9F9F9F); font-size: 14px; font-family: Poppins; font-weight: 400; word-wrap: break-word">WATCH DEMO</div>
+      </div>
+    </div>
+    <div style="width: 420px; height: 30px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+      <div style="left: 62.50px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">default</div>
+      <div style="left: 261.50px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">hover</div>
+    </div>
+  </div>
+  <div style="width: 338px; height: 140px; left: 64px; top: 2063.76px; position: absolute">
+    <div style="width: 338px; height: 110px; left: 0px; top: 30px; position: absolute; background: rgba(30, 30, 30, 0.70); border-radius: 5px; border: 0.50px white solid">
+      <div data-:hover="true" data-variant="1" style="padding-top: 14px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; left: 184px; top: 30px; position: absolute; background: var(--color-grey-44, #707070); border-radius: 2px; outline: 1px var(--color-grey-44, #707070) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: inline-flex">
+        <div style="text-align: center; justify-content: center; display: flex; flex-direction: column; color: var(--color-white-solid, white); font-size: 14px; font-family: Poppins; font-weight: 400; word-wrap: break-word">LEARN MORE</div>
+      </div>
+      <div data-:hover="false" data-variant="1" style="padding-top: 14px; padding-bottom: 15px; padding-left: 20px; padding-right: 20px; left: 30px; top: 30px; position: absolute; border-radius: 2px; outline: 1px var(--color-grey-44, #707070) solid; outline-offset: -1px; justify-content: flex-start; align-items: center; display: inline-flex">
+        <div style="text-align: center; justify-content: center; display: flex; flex-direction: column; color: var(--color-grey-62, #9F9F9F); font-size: 14px; font-family: Poppins; font-weight: 400; word-wrap: break-word">LEARN MORE</div>
+      </div>
+    </div>
+    <div style="width: 338px; height: 30px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+      <div style="left: 42px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">default</div>
+      <div style="left: 200px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">hover</div>
+    </div>
+  </div>
+  <div style="width: 330px; height: 121px; left: 64px; top: 2267.76px; position: absolute">
+    <div style="width: 330px; height: 91px; left: 0px; top: 30px; position: absolute; background: rgba(30, 30, 30, 0.70); border-radius: 5px; border: 0.50px white solid">
+      <div data-:hover="true" data-variant="1" style="padding-top: 3.50px; padding-bottom: 5.50px; left: 180px; top: 30px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="justify-content: center; display: flex; flex-direction: column; color: var(--color-white-solid, white); font-size: 22px; font-family: Font Awesome 5 Brands; font-weight: 400; line-height: 22px; word-wrap: break-word"></div>
+      </div>
+      <div data-:hover="false" data-variant="1" style="padding-top: 3.50px; padding-bottom: 5.50px; left: 30px; top: 30px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="justify-content: center; display: flex; flex-direction: column; color: var(--color-grey-75, #BEBEBE); font-size: 22px; font-family: Font Awesome 5 Brands; font-weight: 400; line-height: 22px; word-wrap: break-word"></div>
+      </div>
+    </div>
+    <div style="width: 330px; height: 30px; left: 0px; top: 0px; position: absolute; overflow: hidden">
+      <div style="left: 40px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">default</div>
+      <div style="left: 194px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">hover</div>
+    </div>
+  </div>
+  <div style="width: 453.92px; height: 252px; left: 64px; top: 2452.76px; position: absolute">
+    <div style="width: 333.92px; height: 222px; left: 120px; top: 30px; position: absolute; background: rgba(30, 30, 30, 0.70); border-radius: 5px; border: 0.50px white solid">
+      <div data-:hover="true" data-variant="1" style="left: 181.96px; top: 30px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="justify-content: center; display: flex; flex-direction: column; color: var(--color-white-solid, white); font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">About Us</div>
+      </div>
+      <div data-:hover="false" data-variant="1" style="left: 30px; top: 30px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="justify-content: center; display: flex; flex-direction: column; color: var(--color-grey-75, #BEBEBE); font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">About Us</div>
+      </div>
+      <div data-:hover="true" data-variant="2" style="left: 181.96px; top: 94px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="justify-content: center; display: flex; flex-direction: column; color: var(--color-white-solid, white); font-size: 12px; font-family: Poppins; font-weight: 400; line-height: 18px; word-wrap: break-word">About Us</div>
+      </div>
+      <div data-:hover="false" data-variant="2" style="left: 30px; top: 94px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="justify-content: center; display: flex; flex-direction: column; color: var(--color-white-solid, white); font-size: 12px; font-family: Poppins; font-weight: 400; line-height: 18px; word-wrap: break-word">About Us</div>
+      </div>
+      <div data-:hover="true" data-variant="3" style="width: 121.96px; padding-left: 20px; padding-right: 20px; padding-top: 5px; padding-bottom: 5px; left: 181.96px; top: 158px; position: absolute; opacity: 0.90; background: var(--color-white-solid, white); border-radius: 5px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="justify-content: center; display: flex; flex-direction: column; color: var(--color-blue-62, #655DDE); font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">About Us</div>
+      </div>
+      <div data-:hover="false" data-variant="3" style="width: 121.96px; padding-left: 20px; padding-right: 20px; padding-top: 5px; padding-bottom: 5px; left: 30px; top: 158px; position: absolute; background: var(--color-white-solid, white); border-radius: 5px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="justify-content: center; display: flex; flex-direction: column; color: var(--color-blue-62, #655DDE); font-size: 16px; font-family: Poppins; font-weight: 400; line-height: 24px; word-wrap: break-word">About Us</div>
+      </div>
+    </div>
+    <div style="width: 333.92px; height: 30px; left: 120px; top: 0px; position: absolute; overflow: hidden">
+      <div style="left: 40.98px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">default</div>
+      <div style="left: 196.94px; top: 0px; position: absolute; color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">hover</div>
+    </div>
+    <div style="width: 120px; height: 222px; left: 0px; top: 30px; position: absolute; overflow: hidden">
+      <div style="left: 0px; top: 32px; position: absolute"><span style="color: rgba(255, 255, 255, 0.50); font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">variant<br/></span><span style="color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">1</span></div>
+      <div style="left: 0px; top: 96px; position: absolute"><span style="color: rgba(255, 255, 255, 0.50); font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">variant<br/></span><span style="color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">2</span></div>
+      <div style="left: 0px; top: 160px; position: absolute"><span style="color: rgba(255, 255, 255, 0.50); font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">variant<br/></span><span style="color: white; font-size: 12px; font-family: Inter; font-weight: 300; word-wrap: break-word">3</span></div>
+    </div>
+  </div>
+</div>
